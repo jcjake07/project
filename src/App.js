@@ -9,13 +9,7 @@ function App() {
         <CurrentLocation />
       </div>
       <div className="footer-info">
-        <a href="#">
-          Download Source Code
-        </a>{" "}
-        | Developed by{" "}
-        <a target="_blank" href="#">
-          Kotha vishwak
-        </a>{" "}
+        
         
         
       </div>
@@ -24,3 +18,4 @@ function App() {
 }
 
 export default App;
+
